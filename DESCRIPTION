@@ -1,0 +1,13 @@
+Package: r4ds
+Title: Practical Data Science Functions - Information Value, Bivariate and WOE in a Data Frame
+Version: 0.0.0.9000
+Authors@R: person("DnI Institute", "", email = "info@dni-institute.in", role = c("aut", "cre"))
+Description: This R package for Data Science has a few commonly required functions. It helps to het summary Statistics into a Data Frame.
+             Also, Information Value and Weight of Evidence calculated for all variables of a data frame. And a few more additional usful functions which we need
+             practical data science daily basis.
+Depends:
+    R (>= 3.3.0)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
